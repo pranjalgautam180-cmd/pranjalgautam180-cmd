@@ -138,14 +138,6 @@ An interactive platform for learning Data Structures and Algorithms through visu
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=pranjalgautam180-cmd&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="Pranjal's GitHub statistics" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalgautam180-cmd&layout=compact&langs_count=8&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top languages" />
-
-</div>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranjalgautam180-cmd&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=30363d&ring=58a6ff&fire=ff7b72&currStreakLabel=58a6ff" alt="Contribution streak" />
 
 </div>
